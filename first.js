@@ -62,3 +62,4 @@ console.log(skills)
 //sort to sort by ascending order
 skills.sort()
 console.log(skills)
+console.log("Hello")
