@@ -34,3 +34,5 @@ function oat(array,index){
 
 console.log(oat(arra,-1));
 //-------------------------------------------------------------------
+let a="Hello v0";
+console.log(a);

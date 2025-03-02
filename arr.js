@@ -7,3 +7,8 @@ console.log(typeof(a))
 let arr=[1,2,3,4]
 console.log(arr.join(""))
 console.log(arr.length);
+//feature
+let newa=[1,2,3,4,5,6,7];
+newa.pop();
+console.log(newa);//printing
+console.log("New msg");
