@@ -12,3 +12,4 @@ let newa=[1,2,3,4,5,6,7];
 newa.pop();
 console.log(newa);//printing
 console.log("New msg");
+console.log("Changes");
