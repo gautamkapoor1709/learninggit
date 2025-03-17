@@ -1,0 +1,19 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "main": "arr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gautamkapoor1709/learninggit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gautamkapoor1709/learninggit/issues"
+  },
+  "homepage": "https://github.com/gautamkapoor1709/learninggit#readme",
+  "description": ""
+}
